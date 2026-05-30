@@ -7,14 +7,14 @@ body {
     background-color: rgb(30, 30, 123);
     height: 50px;
     width: 100%;
-    display: flex;
+    
 
 
 }
 
 .first {
     position: relative;
-    left: 40px;
+    right: 20px;
 
     text-transform: uppercase;
     font-size: 1.5rem;
@@ -43,7 +43,8 @@ body {
 
 .links {
     position: relative;
-    right: 80px;
+    left: 75%;
+    top:-35px;
 
 }
 
@@ -52,7 +53,7 @@ body {
     border: 1px solid transparent;
     border-radius: 10%;
     padding: 5px;
-    margin-left: 60px;
+    margin-left: 30px;
     text-decoration: none;
     color: aliceblue;
 
@@ -63,7 +64,7 @@ body {
     border: 1px solid transparent;
     border-radius: 10%;
     padding: 5px;
-    margin-left: 60px;
+    margin-left: 30px;
     text-decoration: none;
     color: aliceblue;
 }
@@ -73,7 +74,7 @@ body {
     border: 1px solid transparent;
     border-radius: 10%;
     padding: 5px;
-    margin-left: 60px;
+    margin-left: 20px;
     text-decoration: none;
     color: aliceblue;
 
